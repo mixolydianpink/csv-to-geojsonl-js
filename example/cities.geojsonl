@@ -1,0 +1,4 @@
+{"type":"Feature","properties":{"NAME":"Kufra","COUNTRY":"LBY"},"geometry":{"type":"Point","coordinates":[23.283333,24.183333]}}
+{"type":"Feature","properties":{"NAME":"Chongqing","COUNTRY":"CHN"},"geometry":{"type":"Point","coordinates":[106.5504,29.5637]}}
+{"type":"Feature","properties":{"NAME":"Daraa","COUNTRY":"SYR"},"geometry":{"type":"Point","coordinates":[36.1,32.616667]}}
+{"type":"Feature","properties":{"NAME":"Rio de Janeiro","COUNTRY":"BRA"},"geometry":{"type":"Point","coordinates":[-43.205916,-22.911366]}}
